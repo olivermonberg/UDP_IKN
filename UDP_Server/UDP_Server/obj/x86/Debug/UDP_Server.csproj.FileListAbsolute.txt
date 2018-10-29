@@ -1,0 +1,6 @@
+/root/Documents/UDP_Server/UDP_Server/bin/Debug/UDP_Server.exe
+/root/Documents/UDP_Server/UDP_Server/bin/Debug/UDP_Server.pdb
+/root/Documents/UDP_Server/UDP_Server/obj/x86/Debug/UDP_Server.csprojResolveAssemblyReference.cache
+/root/Documents/UDP_Server/UDP_Server/obj/x86/Debug/UDP_Server.csproj.CoreCompileInputs.cache
+/root/Documents/UDP_Server/UDP_Server/obj/x86/Debug/UDP_Server.exe
+/root/Documents/UDP_Server/UDP_Server/obj/x86/Debug/UDP_Server.pdb
